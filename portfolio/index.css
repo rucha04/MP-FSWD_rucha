@@ -1,0 +1,139 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+.jumbotron img {
+  display: block;
+  max-width: 500px;
+  max-height: 250px;
+  margin-left: 400px;
+  width: auto;
+
+  height: auto;
+}
+h2 {
+  font-family: "TambourineOutlineRegular";
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 500px;
+  color: rgb(17, 60, 85);
+}
+
+h3 {
+  font-family: "TambourineOutlineRegular";
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 500px;
+  color: rgb(17, 60, 85);
+}
+.btn {
+  margin-left: 540px;
+}
+
+.heading p {
+  text-align: center;
+  font-size: 3em;
+  color: #18523d;
+}
+.skills h2 {
+  font-size: 3em;
+  color: #18523d;
+}
+.heading h3 {
+  font-style: italic;
+  font-size: 30px;
+  color: #18523d;
+  margin-left: 100px;
+}
+.contentBx {
+  padding-left: 40px;
+  text-align: justify;
+}
+.contentBx h2 {
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+.heading.bottom {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+}
+
+.bt {
+  margin-top: 20px;
+}
+.w50 {
+  min-width: 25%;
+}
+.row p {
+  font-family: "PlasticRegular";
+  font-weight: normal;
+  font-style: normal;
+  color: brown;
+}
+
+.row h2 {
+  font-family: "TambourineOutlineRegular";
+  font-weight: bold;
+  font-style: normal;
+
+  font-size: 3em;
+  color: #18523d;
+}
+.container p {
+  font-size: 3em;
+  color: #18523d;
+}
+.row img {
+  max-width: 100%;
+}
+
+.w3-text {
+  font-style: italic;
+  font-size: 30px;
+  color: #18523d;
+  margin-left: 100px;
+  text-align: center;
+}
+.text p {
+  font-size: 3em;
+  color: #18523d;
+}
+
+.services {
+  background: rgba(218, 214, 214, 0.87);
+}
+
+.services .content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.services .content .servicesBx {
+  color: #fff;
+  background: #f8f4f4;
+  padding: 30px 15px;
+  max-width: 360px;
+  margin: 10px 15px;
+  text-align: center;
+}
+
+.work .content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.work .content .workBx {
+  width: 500px;
+  padding: 20px;
+}
+.work .content .workBx img {
+  max-width: 100%;
+  border: 1px solid rgba(17, 16, 16, 0.822);
+  cursor: pointer;
+}
+.work p {
+  text-emphasis-color: blue;
+}
